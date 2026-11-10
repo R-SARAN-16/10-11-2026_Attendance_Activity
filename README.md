@@ -1,1 +1,41 @@
 # 10-11-2026_Attendance_Activity
+
+<table border=1>
+<tr>
+<th>Col Head1</th>
+<th>Col Head2</th>
+<th>Col Head3</th>
+<th>Col Head4</th>
+<th>Col Head5</th>
+</tr>
+
+<tr>
+<td>Row1 Cell1</td>
+<td bgcolor="Yellow">Row1 Cell2</td>
+<td>Row1 Cell3</td>
+<td>Row1 Cell4</td>
+<td>Row1 Cell5</td>
+</tr>
+
+<tr>
+<td>Row2 Cell1</td>
+<td colspan=2>Row2 Cell2</td>
+<td>Row2 Cell3</td>
+<td rowspan=2>Row2 Cell4</td>
+</tr>
+
+<tr>
+<td>Row3 Cell1</td>
+<td rowspan=2>Row1 Cell2</td>
+<td>Row3 Cell3</td>
+<th>Row3 Cell4</th>
+</tr>
+
+<tr>
+<td>Row4 Cell1</td>
+<td>Row1 Cell2</td>
+<td bgcolor="skyblue">Row4 Cell3</td>
+<td>Row4 Cell4</td>
+
+</tr>
+</table>
